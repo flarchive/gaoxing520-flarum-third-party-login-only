@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of gaoxing520/flarum-third-party-login-only.** Not for installation: use [Packagist](https://packagist.org/packages/gaoxing520/flarum-third-party-login-only) or the [upstream repository](https://github.com/gaoxing520/flarum-third-party-login-only).
 
-**0** versions archived · Latest: [`v0.1.4`](https://github.com/flarchive/gaoxing520-flarum-third-party-login-only/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^1.8.0`
+**2** versions archived · Latest: [`v0.1.4`](https://github.com/flarchive/gaoxing520-flarum-third-party-login-only/tree/archive/v0.1.4) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.2` | 2022-05-20 | `^1.0.0` | [Browse](https://github.com/flarchive/gaoxing520-flarum-third-party-login-only/tree/archive/v0.1.2) |
+| `v0.1.4` | 2026-08-19 | `^1.8.0` | [Browse](https://github.com/flarchive/gaoxing520-flarum-third-party-login-only/tree/archive/v0.1.4) |
 
 Catalog entry: [packages/gaoxing520-flarum-third-party-login-only.json](https://github.com/flarchive/archive-index/blob/main/packages/gaoxing520-flarum-third-party-login-only.json)
 

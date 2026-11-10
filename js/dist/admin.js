@@ -1,0 +1,2 @@
+(()=>{const e={n:t=>{const o=t&&t.__esModule?()=>t.default:()=>t;return e.d(o,{a:o}),o},d:(t,o)=>{for(var n in o)e.o(o,n)&&!e.o(t,n)&&Object.defineProperty(t,n,{enumerable:!0,get:o[n]})},o:(e,t)=>Object.prototype.hasOwnProperty.call(e,t)};(()=>{"use strict";const t=flarum.core.compat["admin/app"];e.n(t)().initializers.add("v17development-third-party-login-only",function(){})})(),module.exports={}})();
+//# sourceMappingURL=admin.js.map

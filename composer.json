@@ -1,0 +1,40 @@
+{
+    "name": "gaoxing520/flarum-third-party-login-only",
+    "description": "Only allow login and sign ups from oAuth extensions. fork from v17development, fixed for Flarum 1.8.x.",
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "V17 Development",
+            "email": "info@v17.dev"
+        },
+        {
+            "name": "gaoxing520",
+            "email": "gaoxing520@gx.home"
+        }
+    ],
+    "homepage": "https://github.com/gaoxing520/flarum-third-party-login-only",
+    "support": {
+        "forum": "https://discuss.flarum.org/d/28424",
+        "docs": "https://community.v17.dev/knowledgebase/category/flarum-third-party-login-only"
+    },
+    "autoload": {
+        "psr-4": {
+            "V17Development\\FlarumThirdPartyLoginOnly\\": "src/"
+        }
+    },
+    "require": {
+        "flarum/core": "^1.8.0"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Third party login only",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-sign-in-alt",
+                "backgroundColor": "#503cc5",
+                "color": "#ffffff"
+            }
+        }
+    }
+}
